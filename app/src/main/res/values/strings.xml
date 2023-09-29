@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MAD M2 Practice</string>
+    <string name="App_Title">MAD M2 Practice by B036 Darsh Mashru</string>
+    <string name="mainpg_text">Here is a list of all the things you can do: </string>
+    <string name="WebViewTitle">Web View Activity</string>
+    <string name="ClickPictureTitle">Clicking Picture Activity</string>
+    <string name="ClickVideoTitle">Clicking Video Activity</string>
+    <string name="DatePickerTitle">Date Picker Activity</string>
+    <string name="TimePickerTitle">Time Picker Activity</string>
+    <string name="ClickPicture">Click Picture</string>
+    <string name="ClickVideo">Click Video</string>
+    <string name="DatePicker">Select a Date</string>
+    <string name="TimePicker">Select a Time</string>
+    <string name="DateTimeText">You have selected</string>
+    <string name="TimePickerTitle2">Time Picker Activity Page 2</string>
+    <string name="goNext">Go to the next page</string>
+</resources>
