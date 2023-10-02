@@ -127,6 +127,11 @@ public void timePickeronClick(View view) {
         timePicker.show(getSupportFragmentManager(), "tag");
     }
 
+  public void goToNextPage(View view) {
+        Intent i = new Intent(TimePickerActivity.this, TimePickerActivityPg2.class);
+        i.putExtra("time", setTime);
+        startActivity(i);
+    }
 // Code to add time to page 2
         TextView Time; // Inside TimePickerPg2 Class
         // Inside onCreate
